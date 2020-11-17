@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.5.7](https://github.com/peaceiris/actions-gh-pages/compare/v3.5.6...v3.5.7) (2020-11-17)
+
 ## [3.5.6](https://github.com/peaceiris/actions-gh-pages/compare/v3.5.5...v3.5.6) (2020-03-16)
 
 
